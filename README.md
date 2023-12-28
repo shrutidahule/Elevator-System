@@ -22,7 +22,7 @@ while programming.
 
 # Output Screenshot 
 
-![image](https://github.com/shrutidahule/Elevator-System/assets/129357353/876361cd-78b0-4006-b337-120204b7a7d9)
+![image](https://github.com/shrutidahule/Elevator-System/assets/129357353/057d4104-654e-42b4-98c5-d779f1944165)
 
 
 
